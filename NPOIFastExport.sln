@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NPOIFastExport", "NPOIFastExport\NPOIFastExport.csproj", "{69BF0484-232D-4B91-B942-C630CC0AD5A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loigc", "Loigc\Loigc.csproj", "{F5642DF9-EE84-4FF0-941E-78F8143E0D31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69BF0484-232D-4B91-B942-C630CC0AD5A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69BF0484-232D-4B91-B942-C630CC0AD5A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69BF0484-232D-4B91-B942-C630CC0AD5A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69BF0484-232D-4B91-B942-C630CC0AD5A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5642DF9-EE84-4FF0-941E-78F8143E0D31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5642DF9-EE84-4FF0-941E-78F8143E0D31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5642DF9-EE84-4FF0-941E-78F8143E0D31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5642DF9-EE84-4FF0-941E-78F8143E0D31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D71805B-8484-40C9-8523-507F5EA7D6B5}
+	EndGlobalSection
+EndGlobal

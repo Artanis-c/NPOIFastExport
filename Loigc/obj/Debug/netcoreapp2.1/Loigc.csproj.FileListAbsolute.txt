@@ -1,0 +1,9 @@
+D:\NPOIFastExport\Loigc\bin\Debug\netcoreapp2.1\Loigc.deps.json
+D:\NPOIFastExport\Loigc\bin\Debug\netcoreapp2.1\Loigc.dll
+D:\NPOIFastExport\Loigc\obj\Debug\netcoreapp2.1\Loigc.csprojAssemblyReference.cache
+D:\NPOIFastExport\Loigc\obj\Debug\netcoreapp2.1\Loigc.csproj.CoreCompileInputs.cache
+D:\NPOIFastExport\Loigc\obj\Debug\netcoreapp2.1\Loigc.AssemblyInfoInputs.cache
+D:\NPOIFastExport\Loigc\obj\Debug\netcoreapp2.1\Loigc.AssemblyInfo.cs
+D:\NPOIFastExport\Loigc\bin\Debug\netcoreapp2.1\Loigc.pdb
+D:\NPOIFastExport\Loigc\obj\Debug\netcoreapp2.1\Loigc.dll
+D:\NPOIFastExport\Loigc\obj\Debug\netcoreapp2.1\Loigc.pdb
